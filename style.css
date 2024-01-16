@@ -1,0 +1,24 @@
+
+.one{
+    text-align: center;
+
+}
+
+
+.two{
+    height:40%;
+    width: 30%;
+    margin: auto;
+    text-overflow: none;
+    
+}
+
+.para{
+    opacity: 60%;
+    font-size: 15px;
+}
+
+iframe{
+    width: 100%;
+    height: 280px;
+}
